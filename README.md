@@ -1,4 +1,4 @@
-# TrafFlow: SUMO-based Distributed Traffic-Control Framework
+# TimeCop: SUMO-based Distributed Traffic-Control Framework
 This repository contains a framework to:
 1) Import a SUMO Scenario
 2) Train Deep RL-based Traffic Controllers for each imported intersection
